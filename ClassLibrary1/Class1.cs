@@ -1,14 +1,14 @@
 ﻿using System;
 
-namespace Battleships
+namespace Business
 {
-    class Program
+    public class Class1
     {
-        static void Main(string[] args)
+        public void Run()
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Change..");
         }
+        
     }
 }
-
