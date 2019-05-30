@@ -7,7 +7,7 @@ namespace Battleships
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("First commit...");
+            Console.WriteLine("Change..");
         }
     }
 }
